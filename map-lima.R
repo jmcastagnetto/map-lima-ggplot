@@ -1,6 +1,5 @@
 library(tidyverse)
 library(osmdata)
-library(ggsn) # to put a north symbol in the map
 library(showtext)
 library(showtextdb)
 
